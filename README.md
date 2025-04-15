@@ -1,17 +1,10 @@
-# Lukasdoe Llvm
+# Homebrew Formular for Static LLVM build
 
-## How do I install these formulae?
+## How do I install this formular?
 
-`brew install lukasdoe/llvm/<formula>`
+`brew install lukasdoe/llvm/llvm-static`
 
-Or `brew tap lukasdoe/llvm` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "lukasdoe/llvm"
-brew "<formula>"
-```
+Or `brew tap lukasdoe/llvm` and then `brew install llvm-static`.
 
 ## Documentation
 
