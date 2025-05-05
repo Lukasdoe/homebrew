@@ -1,10 +1,10 @@
-# Homebrew Formular for Static LLVM build
+# Homebrew Formular for apache-arrow builds
 
 ## How do I install this formular?
 
-`brew install lukasdoe/llvm/llvm-static`
+`brew install lukasdoe/homebrew/apache-arrow`
 
-Or `brew tap lukasdoe/llvm` and then `brew install llvm-static`.
+Or `brew tap lukasdoe/homebrew` and then `brew install apache-arrow`.
 
 ## Documentation
 
